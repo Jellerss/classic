@@ -1,1 +1,7 @@
-awqewswsdw
+Package: com.yourname.discordclassic
+Version: 0.8.5
+Architecture: iphoneos-arm
+Maintainer: Your Name
+Description: Classic Discord for iOS
+Filename: discordclassic-0.8.5.deb
+Size: 800000
